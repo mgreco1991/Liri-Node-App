@@ -6,7 +6,3 @@ var twitterKeys = {
 };
 
 module.exports = twitterKeys;
-
-// var spotifyThisSong = {
-// 	client_id: ''
-// }
